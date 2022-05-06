@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tripurarijee
-- 👀 I’m interested in Blockchain and Artificial Intelligence
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python based projects
 - 📫 How to reach me? Mail me at tripurarijee2727@gmail.com
